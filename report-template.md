@@ -29,3 +29,5 @@ Summarise the results of the machine learning models, and include a recommendati
 * Does performance depend on the problem we are trying to solve? (For example, is it more important to predict the `1`'s, or predict the `0`'s? )
 
 If you do not recommend any of the models, please justify your reasoning.
+
+The purpose of the analysis is to identify what potential clients are a low or a high risk for loans using the information in the dataset - being loan size, interest rate, the income and debt to income of the borrower. 
